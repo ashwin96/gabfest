@@ -1,0 +1,71 @@
+.heading-align 
+{
+	text-align: center;
+}
+
+.tab-align {
+	    margin: auto;
+    width: 80%;
+}
+.paragraph
+{
+	text-indent: 50px;
+	word-spacing: 5px;
+}
+.journal-heading
+{
+	font-weight: 700;
+}
+.background 
+{
+	background-image: url("images/bg.png");
+}
+
+.light-blue
+{
+	background-color: rgba(17, 221, 228, 0.61);
+}
+
+.margin-bottom
+{
+	margin-bottom: 30px;
+}
+.margin-journal
+{
+	margin-bottom: 50px;
+}
+.margin-top
+{
+	margin-top: 10px;
+}
+.down-bottom
+{
+	margin-bottom: 12px;
+}
+.bottom-margin{
+	margin-bottom: 5px;
+}
+.background-and-border
+{
+	background: transparent;
+	border: transparent;
+
+
+.font-size
+{
+	font-size: 13px;
+}
+
+.circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 50px;
+}
+
+.fixed {
+	position: fixed;
+}

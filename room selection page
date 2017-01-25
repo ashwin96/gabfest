@@ -1,0 +1,160 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content=" <title>Aravind Palani | Home</title>
+    <link href="semantic.css" rel="stylesheet">
+    <link href="semantic.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    
+    
+    <script src="semantic.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+      <script>
+      function bor(a){
+      
+
+    $(a).toggleClass( "green" );
+
+ }
+</script>
+  <body>
+
+  <div class="ui grid container stackable grid">
+  <div class="ui ten wide computer sixteen wide mobile column">
+  <h2 class="ui header">
+  <img src="asserts/logo.png" alt="logo">
+  <div class="content">
+    Product name
+    <div class="sub header">Crispy intro</div></div></h2> 
+    <h4 class="ui header"> Select date and time of your conference</h4>
+<div class="ui two wide computer one wide mobile column link cards">
+  <div class="card">
+    <div class="image">
+      <img  src="asserts/image2.gif">
+     </div>
+    <div class="content">
+      <div class="header">Conference room 1</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+    </div>
+    <div class="ui bottom attached button" onclick="bor(this);">
+      <i class="add icon"></i>
+      Select Conference Room
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img  src="asserts/image2.gif">
+    </div>
+    <div class="content">
+      <div class="header">Conference room 2</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+    </div>
+    <div class="ui bottom attached button" onclick="bor(this);">
+      <i class="add icon"></i>
+      Select Conference Room
+    </div>
+  </div>
+  <div class="card">
+    <div class="image">
+      <img  src="asserts/image2.gif">
+    </div>
+    <div class="content">
+      <div class="header">Conference room 3</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+    </div>
+    <div class="ui bottom attached button" onclick="bor(this);">
+      <i class="add icon"></i>
+      Select Conference Room
+    </div>
+    
+  </div>
+  <div class="card">
+    <div class="image">
+      <img  src="asserts/image2.gif">
+    </div>
+    <div class="content">
+      <div class="header">Conference room 4</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+    </div>
+    <div class="ui bottom attached button" onclick="bor(this);">
+      <i class="add icon"></i>
+      Select Conference Room
+    </div>
+    
+  </div>
+  
+  <div class="card">
+    <div class="image">
+      <img  src="asserts/image2.gif">
+    </div>
+    <div class="content">
+      <div class="header">Conference room 5</div>
+      <div class="meta">
+        <a>Friends</a>
+      </div>
+    </div>
+    <div class="ui bottom attached button" onclick="bor(this);">
+      <i class="add icon"></i>
+      Select Conference Room
+    </div>
+    
+  </div>
+</div>
+</div>
+<div class="ui six wide computer sixteen wide mobile column centered grid">
+
+<div class="column margin-top">
+  <h4 class="ui header">Confirmation details</h4>
+  <div class="ui segment">
+  <div class="ui left aligned segment">
+  Name of Conference Hall:
+</div>
+<div class="ui left aligned segment">
+  Conference date:
+</div>
+<div class="ui left aligned segment">
+  Conference time:
+</div>
+<div class="ui left aligned segment">
+  Number of seats available:
+</div>
+<div class="ui left aligned segment">
+  Projector availability:
+</div>
+<div class="ui animated button" tabindex="0">
+  <div class="visible content">Verify and Proceed</div>
+  <div class="hidden content">
+    <i class="right arrow icon"></i>
+  </div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+    
+  
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="semantic.min.js"></script>   
+  </body>
+</html>
